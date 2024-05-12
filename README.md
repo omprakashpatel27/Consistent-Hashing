@@ -31,5 +31,5 @@ So, what’s the benefit of all this circle approach? Imagine server C is remove
 
 But what happens with the other object keys, the ones that originally belonged in A and B? Nothing! That’s the beauty of it: The absence of Cx labels does not affect those keys in any way. So, removing a server results in its object keys being randomly reassigned to the rest of the servers, leaving all other keys untouched.
 
-##Reference
+## Reference
 https://www.toptal.com/big-data/consistent-hashing
